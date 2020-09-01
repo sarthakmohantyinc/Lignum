@@ -5,7 +5,7 @@
 Becoming a superhero is a fairly straightforward process:
 
 ```
-$  date | md5sum
+$ openssl rand -base64 24 |md5 |head -c24;echo
 ```
 
 {% hint style="info" %}
