@@ -74,7 +74,7 @@ Post Resources
 {% api-method-request %}
 {% api-method-path-parameters %}
 {% api-method-parameter name="key" type="string" required=true %}
-s3 key where the link is supposed to be
+s3 key where the link is supposed to be, make sure this is formatted correctly
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 
@@ -86,7 +86,7 @@ Authentication token to track down who is grabbing our resources.
 
 {% api-method-body-parameters %}
 {% api-method-parameter name="secured" type="boolean" required=false %}
-True is resource should be secured. False if resource should be free.
+True means the resource should be secured. False means the resource should be free. Defaults to false if not specified.
 {% endapi-method-parameter %}
 {% endapi-method-body-parameters %}
 {% endapi-method-request %}
