@@ -87,7 +87,7 @@ description: >-
 * In the early part of the Hundred Years' War, the English were successful in which two major battles? The second of these battles resulted in a temporary peace treaty called what? What weapon did the English use in these battles?
   * The English shot **longbows** and ended in a stunning victory in the **Battle of Crécy**. When the French had to fight again, the French were also defeated in the **Battle of Poitiers**. This resulted in the **Treaty of Brétigny** which was never really enforced.
 * In 1415, the war continued - what happened at the Battle of Agincourt?
-  * In the Battle of Agincourt, the French suffered a disastrous defeat. 6000 French men died and only 300 English men died.
+  * In the Battle of Agincourt, the **French suffered a disastrous defeat**. 6000 French men died and only 300 English men died.
 * What role in Joan of Arc play beginning in 1429? How did her role in the Hundred Years' War come to an end?
   * Joan of Arc persuaded Charles to allow her to accompany a French army to Orléans. The French army found new confidence after being inspired by her and changed the course of the war. France kept liberating English-occupied areas. Joan had **brought the war to a decisive turning point.** Her role came to an end when she was captured by the Burgundian allies of the English captured her and wishing to eliminate her, **the English turned Joan over to the Inquisition and charged her with witchcraft and burned her at the stake** at the age of 19. 25 years later, she was exonerated of the charges and in 1920, made a saint of the Roman Catholic Church. 
 * Which side won the 100 Years War? What new technology helped them gain the upper hand?
