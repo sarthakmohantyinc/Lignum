@@ -1,3 +1,9 @@
+---
+description: >-
+  Getting an Authentication Key allows you to get and retrieve resources without
+  going through the GUI.
+---
+
 # Getting an Authentication Key
 
 ## Getting Super Powers
