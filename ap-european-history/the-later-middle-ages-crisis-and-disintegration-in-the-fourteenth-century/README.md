@@ -5,10 +5,12 @@ description: >-
 ---
 
 # The Later Middle Ages: Crisis and Disintegration in the Fourteenth Century
-![Status: Done](https://img.shields.io/badge/status-done-success?style=for-the-badge)
+
+![](https://img.shields.io/badge/status-done-success?style=for-the-badge)
+
 ## Crash Course
 
-{% embed url="https://www.youtube.com/watch?v=rNCw2MOfnLQ" %}
+{% embed url="https://www.youtube.com/watch?v=rNCw2MOfnLQ" caption="" %}
 
 * Medieval Europe was famine-ridden.
 * Bad things such as the Black Death, the Great Schism, the Hundred Years War, and the Little Ice Age happened in the 14th century.
@@ -63,7 +65,7 @@ description: >-
 * What group did flagellants target? The flagellants conducted "pogroms" what are these?
   * **Flagellants targeted Jewish people** because they thought Jewish people were set out to poison the Christians and they blamed them for poisoning the wells. **Pogroms were the worst organized massacres of Jews** in Spain and the minority population were forced to flee to Russia and Poland where the King offered them protection.
 * Read “The cremation of the Strasbourg Jews” on p.304. What charges were made against the Jews? Why do you think people blamed the Jews for the plague?
-  * The Jews were **charged for causing the Plague** __by putting poison in the water and the wells
+  * The Jews were **charged for causing the Plague** \_\_by putting poison in the water and the wells
   * People most likely blamed the Jews because in the **difference of religion** and because church and state were integrated, the council and magistrates also believed this.
 
 ### Economic Dislocation and Social Upheaval
@@ -155,6 +157,4 @@ description: >-
 #### Make an argument either for or against the idea that climate and disease played a major role in producing social, economic, and political changes in the fourteenth century.
 
 Climate and disease played a major role in producing social, economic, and political changes in the fourteenth century. The "little ice age" in Europe caused famine and hunger. Disease such as the Black Death caused the population in Europe to grind to a halt and even decrease. The disease also caused the Flagellants movement to become more popular which caused the Catholic Church \(which was integrated with the state\) to condemn them because of their anti-semitic beliefs. During the Black Death, peasant workers who were paid very little suddenly had an increase in salary while produce prices fell drastically. Landlords had to pay more for labor and lose value in their property which made aristocrats want to lower the wage rate.
-
-
 
