@@ -5,7 +5,7 @@ description: >-
 ---
 
 # The Later Middle Ages: Crisis and Disintegration in the Fourteenth Century
-
+![Status: Done](https://img.shields.io/badge/status-done-success?style=for-the-badge)
 ## Crash Course
 
 {% embed url="https://www.youtube.com/watch?v=rNCw2MOfnLQ" %}
