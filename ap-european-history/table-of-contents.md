@@ -6,6 +6,8 @@ description: Table of Contents for Euro. Duh.
 
 ## Chapter 11
 
+Yes. We start here. I have no clue why. Don't ask me.
+
 {% page-ref page="the-later-middle-ages-crisis-and-disintegration-in-the-fourteenth-century/" %}
 
 ## Chapter 12
