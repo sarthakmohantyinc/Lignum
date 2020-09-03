@@ -138,10 +138,17 @@ description: >-
   * **Bathhouses** were looked at as unhealthy so they were **closed down** which lead to a decline in personal cleanliness.
   * Cities intensified their regulation of prostitution \(**Prostitution increased**\)
 * How did gender roles change after the plague? What effects did this have on women? \(Consider the “Legal Rights of Women” on p.335\)
+  * Women were running businesses but were viewed as **incapable of undertaking all of men's activities**. There was a division of labor roles between men and women that persisted until the Industrial Revolution.
+  * In practice, women worked as **metal workers, stevedores, clothmaking/weaving, and brewing**. Brewin became an all-female profession.
 * Describe the way the average middle- or upper-class child was raised in the late middle ages.
+  * **Boys were taught a trade as soon as possible**. Those who early become and long remain apprentices ought to be the best masters. Some **cities provided schools to educate the young**. Both girls and boys attended these schools but boys went on to secondary school after primary grammar school.
 * Explain some fundamental flaws in the understanding of medicine according to what was believed by clergymen and "physicians" living in the 14th c. What was the general hierarchy of people who practiced any kind of medicine in those times?
+  * **There were four humors that represented the 4 different elements.** 
+  * The hierarchy was **physicians** who learned from prestigious medical schools. Below them were **surgeons** who performed operations, set broken bones, and bleeding patients. Their knowledge was based on practical experience. Below them were **midwives** who delivered babies. And below them were **barber-surgeons** who cut hair and pulled teeth as a supplement to their income.
 * According to Spielvogel, what was the most extraordinary invention of the 14th century? WHY?
+  * The most extraordinary invention was **the clock**. It made a visible impact on European cities. They revolutionized how people thought about and used time. Originally, time was determined by natural rhythms or church bells corresponding to the ecclesiastical offices of the church. **Clocks made it possible for people to plan their day and organize activities around the regular striking of bells.**
 * What were two other important inventions of the 13th and 14th centuries? What makes them significant?
+  * The other two inventions were **eyeglasses and paper**. The high cost of paper made people write in small handwriting. **Eyeglasses made it easier to read this small text**. At the same time, **paper was made cheaper** because it was made from cotton rags.
 
 ## Short Answer Practice
 
