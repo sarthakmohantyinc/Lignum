@@ -9,6 +9,8 @@
 * [Table of Contents](ap-european-history/table-of-contents.md)
 * [The Later Middle Ages: Crisis and Disintegration in the Fourteenth Century](ap-european-history/the-later-middle-ages-crisis-and-disintegration-in-the-fourteenth-century/README.md)
   * [Chapter 11 Flashcards](https://quizlet.com/520380880/disintegration-in-the-14th-century-flash-cards/)
+* [Recovery and Rebirth: The Age of Renaissance](ap-european-history/recovery-and-rebirth-the-age-of-renaissance/README.md)
+  * [Chapter 12 Flashcards](https://quizlet.com)
 
 ## AP Microeconomics
 
