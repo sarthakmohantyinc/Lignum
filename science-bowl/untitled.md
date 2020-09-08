@@ -20,6 +20,8 @@ Tarsal = foot
 
 ### Snellen Chart
 
+\*not discussed but it came to mind\*
+
 an eye chart
 
 ### Tissue Striations
@@ -33,4 +35,6 @@ an eye chart
 ![](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/imgmag/forcurt.gif)
 
 {% embed url="http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/forwir2.html" %}
+
+### 
 
