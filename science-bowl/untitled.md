@@ -30,11 +30,11 @@ an eye chart
 
 ### Magnetic Force on a Current-Carrying Wire
 
-![](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/imgmag/forwir2.gif)
-
 ![](http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/imgmag/forcurt.gif)
 
 {% embed url="http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/forwir2.html" %}
 
-### 
+### Igneous Rock Classification
+
+![](../.gitbook/assets/2020-09-08_175318.jpg)
 
