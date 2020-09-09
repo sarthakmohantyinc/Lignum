@@ -3,6 +3,7 @@
 * [Notes](README.md)
 * [API](api.md)
 * [Getting an Authentication Key](getting-an-authentication-key.md)
+* [Equations :\)](equations.md)
 
 ## AP European History
 

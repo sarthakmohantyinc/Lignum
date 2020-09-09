@@ -8,6 +8,8 @@ description: >-
 
 ## Quick Jump
 
+{% page-ref page="equations.md" %}
+
 ## What is the purpose of life?
 
 That's a tough question but thankfully, I'm on it. Please bear with me while I'm investigating.
