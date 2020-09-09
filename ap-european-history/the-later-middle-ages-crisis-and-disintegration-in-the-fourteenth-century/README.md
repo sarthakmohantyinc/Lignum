@@ -19,9 +19,9 @@ description: >-
 * Hundred Years War increased instability of food supply and the code of chivalry \(respect for others\) and was 116 years long.
 * Technologies included the longbow and the cannon which helped England win.
 * Joan of Arc helped Charles become King.
-* Pope Boniface declared himself as the supreme leader after argument between kings of different countries.
-* Kings wanted tax money from church to expand their administration and Boniface said no and threatened to excommunicate King Philip who then ordered the kidnapping of the pope. Boniface was tortured in captivity and died after he was released.
-* Phillip wanted a French Pope and installed him in Avignon \(France\) and then Pope Gregory the who knows what number decided to move back to Rome but then he died. The Cardinals in Rome elected an Italian Pope \(Urban\) and then the French people were like who's leading the Papal Court in Avignon so they elected a French Pope so now there were 2 popes and a Schism occured \(the Great Schism\).
+* Pope Boniface declared himself as the supreme leader after an argument about taxation between him and the king of France.
+* Kings wanted tax money from Church to expand their administration and Boniface said no and threatened to excommunicate King Philip who then ordered the kidnapping of the pope. Boniface was tortured in captivity and died after he was released.
+* Phillip wanted a French Pope and installed him in Avignon \(France\) and then Pope Gregory the who knows what number decided to move back to Rome but then he died. The Cardinals in Rome elected an Italian Pope \(Urban\) and then the French people were like who's leading the Papal Court in Avignon so they elected a French Pope so now there were 2 popes and a Schism occurred \(the Great Schism\).
 
 ## Major Concepts
 
