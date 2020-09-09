@@ -1,3 +1,7 @@
+---
+description: 'Equations for all the hard classes. One easy one :wink: haha.'
+---
+
 # Equations :\)
 
 ## Physics 1
