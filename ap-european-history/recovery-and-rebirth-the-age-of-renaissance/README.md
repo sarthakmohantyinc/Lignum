@@ -57,8 +57,8 @@ description: >-
 
 ### Meaning and Characteristics of the Italian Renaissance
 
-* Renaissance means "rebirth," but when referencing the era of the "Renaissance" what exa
-* ctly is it a rebirth of? \(hint, read ALL of pg 333 before answering... there are multiple factors you should include in your answer.\)
+* Renaissance means "rebirth," but when referencing the era of the "Renaissance" what exactly is it a rebirth of? \(hint, read ALL of pg 333 before answering... there are multiple factors you should include in your answer.\)
+  * The Renaissance is a rebirth of new society types, 
 * Who was Jacob Burckhardt, and what was his argument about the Renaissance? Do modern scholars agree with Burckhardt? Why or why not?
 * What was the birthplace of the Renaissance? Why here?
 * Was the Renaissance a movement for everyone? If not, who was affected by it and where were these people located?
@@ -119,14 +119,14 @@ description: >-
 
 | Artist Name | Famous Work\(s\) | Early/High | At least one element of piece that makes it Renaissance |
 | :--- | :--- | :--- | :--- |
-| Leonardo da Vinci |  |  |  |
-| Antonio Pollaiulo |  |  |  |
-| Botticelli | Primavera |  |  |
-| Donatello | David |  |  |
-| Filippo Brunelleschi | Dome of the Duomo |  |  |
-|  | School of Athens |  |  |
-| Michelangelo |  |  |  |
-| Donato Bramante |  |  |  |
+| Leonardo da Vinci | Mona Lisa | High |  |
+| Antonio Pollaiulo | Battle of the Nudes | Early |  |
+| Sandro Botticelli | Primavera | Early |  |
+| Donatello | David | Early |  |
+| Filippo Brunelleschi | Dome of the Duomo | Early |  |
+| Raphael | School of Athens | High |  |
+| Michelangelo | David and Adam | High |  |
+| Donato Bramante | San Pietro in Montorio | High |  |
 
 * Where did artists rank among society? How did their social position change over time?
 * What are the "Low Countries," where are they located geographically in Europe, and how did their art differ from Italian art?
