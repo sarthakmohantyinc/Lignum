@@ -38,7 +38,7 @@
 
 * [Table of Contents](ap-physics-2/table-of-contents.md)
 
-## Science Bowl
+## Bowlz <a id="science-bowl"></a>
 
-* [09/08/2020](science-bowl/untitled.md)
+* [SB - 09/08/2020](science-bowl/untitled.md)
 
