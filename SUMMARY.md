@@ -38,9 +38,9 @@
 
 * [Table of Contents](ap-physics-2/table-of-contents.md)
 
-## Bowlz <a id="science-bowl"></a>
+## Bowlz
 
-* [General Resources](science-bowl/general-resources.md)
-* [SB - 09/08/2020](science-bowl/untitled.md)
-* [OB - 09/16/2020](science-bowl/ob-09-16-2020.md)
+* [General Resources](bowlz/general-resources.md)
+* [SB - 09/08/2020](bowlz/untitled.md)
+* [OB - 09/16/2020](bowlz/ob-09-16-2020.md)
 
