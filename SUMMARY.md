@@ -40,5 +40,7 @@
 
 ## Bowlz <a id="science-bowl"></a>
 
+* [General Resources](science-bowl/general-resources.md)
 * [SB - 09/08/2020](science-bowl/untitled.md)
+* [OB - 09/16/2020](science-bowl/ob-09-16-2020.md)
 
