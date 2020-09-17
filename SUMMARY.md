@@ -43,4 +43,5 @@
 * [General Resources](bowlz/general-resources.md)
 * [SB - 09/08/2020](bowlz/untitled.md)
 * [OB - 09/16/2020](bowlz/ob-09-16-2020.md)
+* [SB - 09/17/2020](bowlz/sb-09-17-2020.md)
 
