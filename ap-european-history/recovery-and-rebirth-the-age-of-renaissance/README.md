@@ -11,12 +11,8 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=tecocKSclwc&list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX&index=3" %}
 
-* sdf
-* sdf
-* sdf
-* sdf
-* sdf
-
+* Renaissance means revival or renewal
+* 
 {% embed url="https://www.youtube.com/watch?v=EuzAbE-kPkM&list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX&index=4" %}
 
 * dsf
