@@ -54,14 +54,20 @@ description: >-
 ### Meaning and Characteristics of the Italian Renaissance
 
 * Renaissance means "rebirth," but when referencing the era of the "Renaissance" what exactly is it a rebirth of? \(hint, read ALL of pg 333 before answering... there are multiple factors you should include in your answer.\)
-  * The Renaissance is a rebirth of new society types, 
+  * The Renaissance is a rebirth of **new society types, rediscovery of of Greek and Roman culture, new secular spirit and increasing wealth, and new ways of viewing human beings**.
 * Who was Jacob Burckhardt, and what was his argument about the Renaissance? Do modern scholars agree with Burckhardt? Why or why not?
+  * The Swiss historian and art critic who created the modern concept of the Renaissance. He said the Italians were the "**firstborn** among the sons of modern Europe" and saw the **revival of antiquity**, the **"perfecting of the individual"**, and **secularism** as its distinguishing features.  
+  * **Contemporary scholars do not believe** that the Renaissance represents a sudden or dramatic cultural break because **much continuity** in economic, political, and social life.
 * What was the birthplace of the Renaissance? Why here?
+  * The birthplace was **Northern Italy** because of its commercial preeminence and political evolution, Northern Italy became a urban society in which a **secular spirit emerged** as increasing wealth created new possibilities for the enjoyment of worldly things.
 * Was the Renaissance a movement for everyone? If not, who was affected by it and where were these people located?
+  * **No, it was mainly for the wealthy upper class who were a small percentage of the population**. Indirectly,  intellectual and artistic accomplishments of the period impacted ordinary people because they were mostly visible.
 
 ### The Making of Renaissance Society
 
 * What was the Hanseatic League, or Hansa? What is a monopoly?
+  * The Hanseatic League or Hansa was an **economic and military alliance** of northern European trading cities that established a monopoly on trade from the Baltic to the North Sea.
+  * A monopoly is when a **person or group controls all the market** of a specific good. The Hansa, had a monopoly on northern European trade in timber, fish, grain, metals, honey, and wines.
 * What happened to the economy as Europe entered the 15th century? What were some new industries that came along at that time?
 * What is the Medici family? What important service did they provide across Europe? What happened to them at the close of the 15th century \(1400s\)?
 * The social system of the Middle Ages lingered into the renaissance. It was made of 3 estates. What were they?
