@@ -67,14 +67,25 @@ description: >-
 
 * What was the Hanseatic League, or Hansa? What is a monopoly?
   * The Hanseatic League or Hansa was an **economic and military alliance** of northern European trading cities that established a monopoly on trade from the Baltic to the North Sea.
-  * A monopoly is when a **person or group controls all the market** of a specific good. The Hansa, had a monopoly on northern European trade in timber, fish, grain, metals, honey, and wines.
+  * A monopoly is when a **person or group controls all the market** of a specific good. The Hansa had a monopoly on northern European trade in timber, fish, grain, metals, honey, and wines.
 * What happened to the economy as Europe entered the 15th century? What were some new industries that came along at that time?
+  * As Europe entered the 15th century, the **Hanseatic League went into slow decline** because it was increasingly unable to compete with the developing larger territorial states.
+  * New industries included the **Florentine woolen industry, the silk industry, the glassware and handworked items industry** \(metal and precious stones\), and printing, mining and metallurgy. 
 * What is the Medici family? What important service did they provide across Europe? What happened to them at the close of the 15th century \(1400s\)?
+  * the The Medici's were a family in Europe that **provided banking** to rulers and enterprises. After a change in leadership, the Medici bank suffered a rather sudden decline at the end of the century due to poor leadership and a series of bad loans, especially uncollectible loads to rulers. At the close of the 15th century, when the French expelled the Medici from Florence and confiscated their property, **the Medici finanical edifice collapsed.**
 * The social system of the Middle Ages lingered into the renaissance. It was made of 3 estates. What were they?
+  * The **First Estate**: the clergy
+  * The **Second Estate**: the nobility
+  * The **Third Estate**: peasants
 * What percent of the population constituted the aristocracy? What kinds of roles did they play in society?
+  * The aristocracy was around **2-3% of the population** and served as **military officers and royal advisors**.
 * What did Baldassare Castiglione write? When was it written? What were the three basic attributes he wrote about?
+  * Baldassare Castiglione wrote about **ideals every noble or aristocrat should have** in _The Book of the Courtier_  which was **published in 1528** and it discussed 3 main things: **having traits such impeccable character**, grace, talents, and noble birth, **having participated in military and bodily exercises**, and **having a Classical education** and to adorn his life with the arts by playing a musical instrument, drawing, and painting.
 * During the Renaissance what percentage of the population was peasantry? What two major systems began to decline after the 14th century?
+  * Peasants made up **85-90% of the European population**, except in the highly urbanized areas of northern Italy and Flanders.
+  * **Manorialism and the practice of Serfdom** were major systems that began to decline after the 14th century.
 * Generally peasants don't live in towns, what kinds of activities did urban members of the Third Estate do?
+  * Urban members of the Third Estate were **shopkeepers, artisans, guildmasters, and guild members**.
 * Agricultural slavery had been in decline for centuries by the 15th century. Why did it briefly return? Where did slaves re-emerge and how were their jobs different than before?
 * How was the concept of a "family" during the Renaissance different than most people probably think of a "family" today? \(hint, there are a number of ways\)
 * How was there a double standard for men and women in Renaissance Italy when it came to marriage and sexual norms?
