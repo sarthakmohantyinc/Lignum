@@ -54,14 +54,14 @@ description: >-
 ### Meaning and Characteristics of the Italian Renaissance
 
 * Renaissance means "rebirth," but when referencing the era of the "Renaissance" what exactly is it a rebirth of? \(hint, read ALL of pg 333 before answering... there are multiple factors you should include in your answer.\)
-  * The Renaissance is a rebirth of **new society types, rediscovery of of Greek and Roman culture, new secular spirit and increasing wealth, and new ways of viewing human beings**.
+  * The Renaissance is a rebirth of **new society types, rediscovery of Greek and Roman culture, new secular spirit and increasing wealth, and new ways of viewing human beings**.
 * Who was Jacob Burckhardt, and what was his argument about the Renaissance? Do modern scholars agree with Burckhardt? Why or why not?
   * The Swiss historian and art critic who created the modern concept of the Renaissance. He said the Italians were the "**firstborn** among the sons of modern Europe" and saw the **revival of antiquity**, the **"perfecting of the individual"**, and **secularism** as its distinguishing features.  
-  * **Contemporary scholars do not believe** that the Renaissance represents a sudden or dramatic cultural break because **much continuity** in economic, political, and social life.
+  * **Contemporary scholars do not believe** that the Renaissance represents a sudden or dramatic cultural break because of **much continuity** in economic, political, and social life.
 * What was the birthplace of the Renaissance? Why here?
-  * The birthplace was **Northern Italy** because of its commercial preeminence and political evolution, Northern Italy became a urban society in which a **secular spirit emerged** as increasing wealth created new possibilities for the enjoyment of worldly things.
+  * The birthplace was **Northern Italy** because of its commercial preeminence and political evolution, Northern Italy became an urban society in which a **secular spirit emerged** as increasing wealth created new possibilities for the enjoyment of worldly things.
 * Was the Renaissance a movement for everyone? If not, who was affected by it and where were these people located?
-  * **No, it was mainly for the wealthy upper class who were a small percentage of the population**. Indirectly,  intellectual and artistic accomplishments of the period impacted ordinary people because they were mostly visible.
+  * **No, it was mainly for the wealthy upper class who were a small percentage of the population**. Indirectly,  the intellectual and artistic accomplishments of the period impacted ordinary people because they were mostly visible.
 
 ### The Making of Renaissance Society
 
@@ -72,7 +72,7 @@ description: >-
   * As Europe entered the 15th century, the **Hanseatic League went into slow decline** because it was increasingly unable to compete with the developing larger territorial states.
   * New industries included the **Florentine woolen industry, the silk industry, the glassware and handworked items industry** \(metal and precious stones\), and printing, mining and metallurgy. 
 * What is the Medici family? What important service did they provide across Europe? What happened to them at the close of the 15th century \(1400s\)?
-  * the The Medici's were a family in Europe that **provided banking** to rulers and enterprises. After a change in leadership, the Medici bank suffered a rather sudden decline at the end of the century due to poor leadership and a series of bad loans, especially uncollectible loads to rulers. At the close of the 15th century, when the French expelled the Medici from Florence and confiscated their property, **the Medici finanical edifice collapsed.**
+  * The Medici's were a family in Europe that **provided banking** to rulers and enterprises. After a change in leadership, the Medici bank suffered a rather sudden decline at the end of the century due to poor leadership and a series of bad loans, especially uncollectible loads to rulers. At the close of the 15th century, when the French expelled the Medici from Florence and confiscated their property, **the Medici finanicial edifice collapsed.**
 * The social system of the Middle Ages lingered into the renaissance. It was made of 3 estates. What were they?
   * The **First Estate**: the clergy
   * The **Second Estate**: the nobility
@@ -85,8 +85,9 @@ description: >-
   * Peasants made up **85-90% of the European population**, except in the highly urbanized areas of northern Italy and Flanders.
   * **Manorialism and the practice of Serfdom** were major systems that began to decline after the 14th century.
 * Generally peasants don't live in towns, what kinds of activities did urban members of the Third Estate do?
-  * Urban members of the Third Estate were **shopkeepers, artisans, guildmasters, and guild members**.
+  * Urban members of the Third Estate were **shopkeepers, artisans, guild masters, and guild members**.
 * Agricultural slavery had been in decline for centuries by the 15th century. Why did it briefly return? Where did slaves re-emerge and how were their jobs different than before?
+  * 
 * How was the concept of a "family" during the Renaissance different than most people probably think of a "family" today? \(hint, there are a number of ways\)
 * How was there a double standard for men and women in Renaissance Italy when it came to marriage and sexual norms?
 
