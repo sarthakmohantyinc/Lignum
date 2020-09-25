@@ -139,10 +139,15 @@ description: >-
   * Pantheism is seeing divinity embodied in all aspects of nature and in the heavenly bodies as well as in early objects. "God as a whole is in all things".
   * These are all related to each other in that each one is based on the other. These were all things the ideal Renaissance man would have embraced.
 * Humanism is often linked to the "liberal studies" - what are these, and how does this relate to the concept of "l'uomo universale" mentioned back on pg.333? What kinds of physical education skills were taught?
+  * 
 * Although education was emphasized in this time, what segment of the population was most likely to receive a formal education at this time?
+  * 
 * How did women generally fit into the concept of a humanist education? How would you summarize the effect of the Renaissance on women of Italy?
+  * 
 * If the Roman Catholic Church had so much power, how did the humanists manage to "secularize" the writing of history. \(pg 350\).
+  * 
 * What was the most important invention of the 15th century? Who invented it? About half of the items created by this invention were about what?
+  * 
 
 ### The Artistic Renaissance
 
