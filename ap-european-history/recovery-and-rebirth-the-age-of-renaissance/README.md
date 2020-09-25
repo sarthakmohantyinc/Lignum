@@ -99,31 +99,45 @@ description: >-
   * **Milan**, **Venice**, **Florence**, **the Papal States**, and **Naples**.
 * What is an "oligarchy"? Explain how this concept manifested itself in the Republic of Florence.
   * An oligarchy is when the **power rests in the hands of a small number of people**. This concept manifested itself in the Republic of Florence when the Medici's had control of a lot of the business and commerce in the area. **Cosimo de' Medici took control of the oligarchy** and the Medici's dominated the city.
-* Who were Battista Sforza and Isabella d'Este? Why are they important in the landscape of Renaissance Italy? Read the “Letters of Isabella d’Esta on p.342, what strategies did women use in order to influence politics?
-  * 
+* Who were Battista Sforza and Isabella d'Este? Why are they important in the landscape of Renaissance Italy? Read the “Letters of Isabella d’Este on p.342, what strategies did women use in order to influence politics?
+  * **Battista Sforza was an aristocrat woman who governed the state "with firmness and good sense."** **Isabella d'Este was another aristocrat woman who was known for her intelligence and political wisdom.** She was called the "first lady of the world" and she attracted artists and intellectuals to the Mantuan court and made one of the finest libraries in all of Italy. 
+  * In the Letters of Isabella d'Este, readers notice her political skills and fierce determination. At the time, **women frequently guilt-shamed the other monarchies and kingdoms** \(namely the Venetians and the Holy Roman Empire\). She refused to do what they asked in hostage negotiations and was adamant on what she wanted.
 * The Italian states utilized a "balance of power" that would later be applied on a larger scale to all of Europe. What was this and how well did it work? What two nations competed to dominate Italy and who were their rulers?
+  * The "balance of power" was an **alliance system between the 5 states of Italy**. It didn't work however and Italy became a battlefield for the great power struggle between the **French and Spanish monarchies**. **King Charles VIII of France** wanted to intervene in Italian politics and marched his army down along to the **Kingdom of Naples**. Other Italian states looked at the Spanish for help which made **King Ferdinand of Aragon** interested. The French and the Spanish competed to dominate Italy for the next 15 years and soon later, Charles I brought an end to the wars and the **Spaniards dominated Italy**.
 * The use of diplomacy expanded extensively during this time. What is a diplomat and what kind of duties do they perform?
+  * A diplomat, or ambassador, is an **agent that the Italian states started sending out to each other to ferret out useful information.** "The first duty of an ambassador is exactly the same as that of any other servant of a government, that is, to **do, say, advise, and think whatever may best serve the preservation and aggrandizement of his own state**. An ambassador was only an agent of the territorial state that sent him, not the larger body of Christendom.
 * Who was Niccolo Machiavelli? What was his book called and what was it generally about? \(more specific questions to follow\)
+  * Niccolo Machiavelli was a **secretary of the Florentine Council of Ten**. He wrote _**The Prince**_ **which gave concrete expression to the Renaissance preoccupation with political power**.
 * What were Machiavelli's biggest concerns and what was it that caused him to develop his ideas?
+  * Machiavelli's biggest concerns were the **acquisition and expansion of political power to restore and maintain order in his time**. He got these ideas from **his knowledge of ancient Rome and his preoccupation with Italy's political problems**.
 * What was Machiavelli's view of human nature? How did this affect the morality of his ideas?
+  * Machiavelli's view of human nature was "They are **ungrateful, fickle, deceptive, and deceiving , avoiders of danger, \[and\] eager to gain**." This made him believe that a ruler must, in order to remain in power, "**be able to break their word, be uncharitable, be inhumane, and irreligious**. He must be mentally prepared to act as circumstances and changes in fortune require. As I have said, he should do what is **right if he can; but he must be prepared to do wrong if necessary**."
 * Who did Machiavelli point to as being a good example of a ruler? Why?
+  * Machiavelli pointed at **Cesare Borgia** who **used ruthless measures to achieve his goal** of carving out a new state in central Italy. **Borgia abandoned morality** to get what he wanted which is what Machiavelli stated in _The Prince_.
 
 ### The Intellectual Renaissance in Italy
 
 * Define the terms individualism and secularism. What areas were these two characteristics most noticeable in Renaissance Italy?
+  * Individualism is the belief that individual **humans are capable of great accomplishments**. Secularism is the concept that government or other entities should exist separately from religion and/or religious beliefs \(**separation of church and state**\).
 * What is humanism? Who is often called the father of humanism? Where is humanism found in the Italian Renaissance?
+  * Humanism was an intellectual **movement based on the study of the Classical literary works of Greece and Rome**. The **Father of Humanism was Petrarch** because he first identified the Middle Ages as a period of darkness, promoting the mistaken belief that medieval culture was ignorant of Classical antiquity. Humanism is **found in art, literature, and culture** throughout the Renaissance.
 * What is "civic humanism" and where was it most prominent?
+  * Civic Humanism, modeled on Cicero, was the belief that it was an **intellectual's civic duty to be involved in politics and help the community**. It was most **prominent in the busy civic world of Florence**.
 * Fill in the chart below pertaining to humanists and civic humanists
 
 | Humanist | Major Works | Significance/Contribution to the Italian Renaissance |
 | :--- | :--- | :--- |
-| Petrarch |  |  |
-| Lorenzo Valla |  |  |
-| Leonardo Bruni |  |  |
-| Giovanni Pico della Mirandola |  |  |
-| Marsilio Ficino |  |  |
+| Petrarch | _The Ascent of Mont Ventoux_ | Presents an allegory of his own soul's struggle to achieve a higher spiritual state. |
+| Lorenzo Valla | _The Elegances of the Latin Language_ | An effort to purify Medieval Latin and restore Latin to its proper position over the vernacular.  |
+| Leonardo Bruni | _The New Cicero_ | Cicero served as inspiration from the Renaissance ideal that intellectuals had a duty to live an active life for their state. |
+| Giovanni Pico della Mirandola | _Oration on the Dignity of Man_ | Offered a ringing statement of unlimited human potential. |
+| Marsilio Ficino | Translation of Plato's Dialogues | This helped synthesize and combine the ideas of Christianity and Platonism into one and helped people understand the link between the material world and the spiritual world and their highest duty was to ascend toward that union with God that was true end of human existence. |
 
 * What is Neoplatonism? Hermeticism? Pantheism? What do all three of these concepts have in common?
+  * Neoplatonism is the exposition of Plato's philosophy, based on two ideas; the hierarchy of substances, and a theory of spiritual love.
+  * Hermeticism is a philosophy, where there was a stress of astrology, alchemy, and magic,as well as theological views and philosophical beliefs.
+  * Pantheism is seeing divinity embodied in all aspects of nature and in the heavenly bodies as well as in early objects. "God as a whole is in all things".
+  * These are all related to each other in that each one is based on the other. These were all things the ideal Renaissance man would have embraced.
 * Humanism is often linked to the "liberal studies" - what are these, and how does this relate to the concept of "l'uomo universale" mentioned back on pg.333? What kinds of physical education skills were taught?
 * Although education was emphasized in this time, what segment of the population was most likely to receive a formal education at this time?
 * How did women generally fit into the concept of a humanist education? How would you summarize the effect of the Renaissance on women of Italy?
