@@ -111,7 +111,7 @@ description: >-
 * What were Machiavelli's biggest concerns and what was it that caused him to develop his ideas?
   * Machiavelli's biggest concerns were the **acquisition and expansion of political power to restore and maintain order in his time**. He got these ideas from **his knowledge of ancient Rome and his preoccupation with Italy's political problems**.
 * What was Machiavelli's view of human nature? How did this affect the morality of his ideas?
-  * Machiavelli's view of human nature was "They are **ungrateful, fickle, deceptive, and deceiving , avoiders of danger, \[and\] eager to gain**." This made him believe that a ruler must, in order to remain in power, "**be able to break their word, be uncharitable, be inhumane, and irreligious**. He must be mentally prepared to act as circumstances and changes in fortune require. As I have said, he should do what is **right if he can; but he must be prepared to do wrong if necessary**."
+  * Machiavelli's view of human nature was "They are **ungrateful, fickle, deceptive, and deceiving, avoiders of danger, \[and\] eager to gain**." This made him believe that a ruler must, in order to remain in power, "**be able to break their word, be uncharitable, be inhumane, and irreligious**. He must be mentally prepared to act as circumstances and changes in fortune require. As I have said, he should do what is **right if he can; but he must be prepared to do wrong if necessary**."
 * Who did Machiavelli point to as being a good example of a ruler? Why?
   * Machiavelli pointed at **Cesare Borgia** who **used ruthless measures to achieve his goal** of carving out a new state in central Italy. **Borgia abandoned morality** to get what he wanted which is what Machiavelli stated in _The Prince_.
 
