@@ -91,13 +91,16 @@ description: >-
 * How was the concept of a "family" during the Renaissance different than most people probably think of a "family" today? \(hint, there are a number of ways\)
   * The family included all of the extended family and the familial **surname conferred great status and prestige**. The family **bond was a source of great security** in a dangerous and violent world.
 * How was there a double standard for men and women in Renaissance Italy when it came to marriage and sexual norms?
-  * Sexual license for males was the norm for princes and their courts, women were supposed to follow different guidelines. Young, unmarried males encouraged extramarital sex as well as prostitution which was viewed as a necessary vice.
+  * Although **sexual license for males was the norm** for princes and their courts, **women were supposed to follow different guidelines**. **Young, unmarried males encouraged extramarital sex** as well as prostitution which was viewed as a necessary vice.
 
 ### The Italian States in the Renaissance
 
 * Name the five major powers that dominated the Italian peninsula.
+  * **Milan**, **Venice**, **Florence**, **the Papal States**, and **Naples**.
 * What is an "oligarchy"? Explain how this concept manifested itself in the Republic of Florence.
+  * An oligarchy is when the **power rests in the hands of a small number of people**. This concept manifested itself in the Republic of Florence when the Medici's had control of a lot of the business and commerce in the area. **Cosimo de' Medici took control of the oligarchy** and the Medici's dominated the city.
 * Who were Battista Sforza and Isabella d'Este? Why are they important in the landscape of Renaissance Italy? Read the “Letters of Isabella d’Esta on p.342, what strategies did women use in order to influence politics?
+  * 
 * The Italian states utilized a "balance of power" that would later be applied on a larger scale to all of Europe. What was this and how well did it work? What two nations competed to dominate Italy and who were their rulers?
 * The use of diplomacy expanded extensively during this time. What is a diplomat and what kind of duties do they perform?
 * Who was Niccolo Machiavelli? What was his book called and what was it generally about? \(more specific questions to follow\)
