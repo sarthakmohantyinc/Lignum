@@ -131,11 +131,11 @@ description: >-
 | Lorenzo Valla | _The Elegances of the Latin Language_ | An effort to purify Medieval Latin and restore Latin to its proper position over the vernacular.  |
 | Leonardo Bruni | _The New Cicero_ | Cicero served as inspiration from the Renaissance ideal that intellectuals had a duty to live an active life for their state. |
 | Giovanni Pico della Mirandola | _Oration on the Dignity of Man_ | Offered a ringing statement of unlimited human potential. |
-| Marsilio Ficino | Translation of Plato's Dialogues | This helped synthesize and combine the ideas of Christianity and Platonism into one and helped people understand the link between the material world and the spiritual world and their highest duty was to ascend toward that union with God that was true end of human existence. |
+| Marsilio Ficino | Translation of Plato's Dialogues | This helped synthesize and combine the ideas of Christianity and Platonism into one and helped people understand the link between the material world and the spiritual world and their highest duty was to ascend toward that union with God that was the true end of human existence. |
 
 * What is Neoplatonism? Hermeticism? Pantheism? What do all three of these concepts have in common?
   * Neoplatonism is the exposition of Plato's philosophy, based on two ideas; the hierarchy of substances, and a theory of spiritual love.
-  * Hermeticism is a philosophy, where there was a stress of astrology, alchemy, and magic,as well as theological views and philosophical beliefs.
+  * Hermeticism is a philosophy, where there was a stress of astrology, alchemy, and magic, as well as theological views and philosophical beliefs.
   * Pantheism is seeing divinity embodied in all aspects of nature and in the heavenly bodies as well as in early objects. "God as a whole is in all things".
   * These are all related to each other in that each one is based on the other. These were all things the ideal Renaissance man would have embraced.
 * Humanism is often linked to the "liberal studies" - what are these, and how does this relate to the concept of "l'uomo universale" mentioned back on pg.333? What kinds of physical education skills were taught?
