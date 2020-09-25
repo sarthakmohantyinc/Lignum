@@ -85,11 +85,13 @@ description: >-
   * Peasants made up **85-90% of the European population**, except in the highly urbanized areas of northern Italy and Flanders.
   * **Manorialism and the practice of Serfdom** were major systems that began to decline after the 14th century.
 * Generally peasants don't live in towns, what kinds of activities did urban members of the Third Estate do?
-  * Urban members of the Third Estate were **shopkeepers, artisans, guild masters, and guild members**.
+  * Urban members of the Third Estate included **shopkeepers, artisans, guild masters, and guild members**.
 * Agricultural slavery had been in decline for centuries by the 15th century. Why did it briefly return? Where did slaves re-emerge and how were their jobs different than before?
-  * 
+  * It returned because there was a **shortage of workers after the Black Death**. When they **re-emerged in Italy**, slaves were used as **skilled workers**, making handcrafted goods for their masters, or as household workers. Girls were **nursemaids** and boys as **playmates**.
 * How was the concept of a "family" during the Renaissance different than most people probably think of a "family" today? \(hint, there are a number of ways\)
+  * The family included all of the extended family and the familial **surname conferred great status and prestige**. The family **bond was a source of great security** in a dangerous and violent world.
 * How was there a double standard for men and women in Renaissance Italy when it came to marriage and sexual norms?
+  * Sexual license for males was the norm for princes and their courts, women were supposed to follow different guidelines. Young, unmarried males encouraged extramarital sex as well as prostitution which was viewed as a necessary vice.
 
 ### The Italian States in the Renaissance
 
