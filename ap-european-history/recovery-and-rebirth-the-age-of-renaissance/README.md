@@ -11,8 +11,6 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=tecocKSclwc&list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX&index=3" %}
 
-* Renaissance means revival or renewal
-* 
 {% embed url="https://www.youtube.com/watch?v=EuzAbE-kPkM&list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX&index=4" %}
 
 * dsf
@@ -161,29 +159,132 @@ description: >-
   * 4\) The naturalistic realism of its faces and figures, enhanced by oil painting techniques like _sfumato_
 * Fill in the chart of Renaissance artists and their major works.
 
-| Artist Name | Famous Work\(s\) | Early/High | At least one element of piece that makes it Renaissance |
-| :--- | :--- | :--- | :--- |
-| Leonardo da Vinci | Mona Lisa | High |  |
-| Antonio Pollaiulo | Battle of the Nudes | Early |  |
-| Sandro Botticelli | Primavera | Early |  |
-| Donatello | David | Early |  |
-| Filippo Brunelleschi | Dome of the Duomo | Early |  |
-| Raphael | School of Athens | High |  |
-| Michelangelo | David and Adam | High |  |
-| Donato Bramante | San Pietro in Montorio | High |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Artist Name</th>
+      <th style="text-align:left">Famous Work(s)</th>
+      <th style="text-align:left">Early/High</th>
+      <th style="text-align:left">At least one element of piece that makes it Renaissance</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Leonardo da Vinci</td>
+      <td style="text-align:left">Mona Lisa</td>
+      <td style="text-align:left">High</td>
+      <td style="text-align:left">
+        <ul>
+          <li>imitating nature</li>
+          <li>religion</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Antonio Pollaiulo</td>
+      <td style="text-align:left">Battle of the Nudes</td>
+      <td style="text-align:left">Early</td>
+      <td style="text-align:left">
+        <ul>
+          <li>human</li>
+          <li>muscularity detail</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sandro Botticelli</td>
+      <td style="text-align:left">Primavera</td>
+      <td style="text-align:left">Early</td>
+      <td style="text-align:left">
+        <ul>
+          <li>antiquity</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Donatello</td>
+      <td style="text-align:left">David</td>
+      <td style="text-align:left">Early</td>
+      <td style="text-align:left">
+        <ul>
+          <li>humanism</li>
+          <li>Roman art (gods)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Filippo Brunelleschi</td>
+      <td style="text-align:left">Dome of the Duomo</td>
+      <td style="text-align:left">Early</td>
+      <td style="text-align:left">
+        <ul>
+          <li>inspired by Roman&apos;s classical architecture</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Raphael</td>
+      <td style="text-align:left">School of Athens</td>
+      <td style="text-align:left">High</td>
+      <td style="text-align:left">
+        <ul>
+          <li>secularism, humanism</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Michelangelo</td>
+      <td style="text-align:left">David and Adam</td>
+      <td style="text-align:left">High</td>
+      <td style="text-align:left">
+        <ul>
+          <li>chapel = religion</li>
+          <li>power of pope</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Donato Bramante</td>
+      <td style="text-align:left">San Pietro in Montorio</td>
+      <td style="text-align:left">High</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Roman Catholic</li>
+          <li>architecture</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 * Where did artists rank among society? How did their social position change over time?
+  * At first, they began to master in craft guilds, once mastered they'd own workshops then viewed as artisans, next artistic geniuses.
 * What are the "Low Countries," where are they located geographically in Europe, and how did their art differ from Italian art?
+  * "Low Countries" -  coastal region; NW Europe ex. Belgium, Netherlands
+  * Italian: realistic, human
+  * North: Gothic, detailed
 * What city was considered the center of ITALIAN art? What city was considered the center of Northern art? Name two famous Northern Renaissance artists and one famous work each completed.
+  * Italy: Florentine, Northern Flanders
+  * Jan Van Eyck: Giovanni Arnottini & his wife
+  * Albrecht Dürer: Adoration of the Magi
 
 ### The European State in the Renaissance
 
 * What are the "New Monarchies" or "Renaissance States" and when did they develop?
+  * 1st half of the 15th century: Euro states = disintegrated
+  * 2nd half: recover/reestablish central power of monarch
 * What were Louis XI of France's major accomplishments? What do historians give him credit for?
+  * Developing a French territorial state, expanded land to create a base for the development of a strong French monarch.
 * What was the "War of the Roses" in England? Why was it called this? What event caused the Plantagenet dynasty to be replaced? What was the new dynasty?
+  * A war between 2 parts of England because each division of England both has roses to represent them. Split between Lancaster and York. Replaced by Tudors.
 * Henry VII of England was a very important king. What were some cunning political moves he used to legitimize his reign and keep power?
+  * He ended the private wars of the nobility by abolishing "livery and maintenance" parliament never had to grant him funds
 * Prior to the 15th century, Spain was actually many different independent kingdoms. What were the two largest kingdoms, who ruled them, and what brought them together to eventually unite?
+  * Aragon ~ Ruled by Ferdinand
+  * Castille ~ Ruled by Isabella
+  * United by the marriage of Ferdinand & Isabella
 * What were the two large religious minorities in Spain? How were they treated during the renaissance? \(hint… read carefully\)
+  * Muslims and kew
 * What was the Spanish Inquisition? What was the Fall of Grenada?
 * What dynasty controlled the Holy Roman Empire, where modern day Germany and Austria are located? How did this dynasty manage to become so successful?
 * How were central and Eastern European kingdoms fundamentally different from those in the West?
