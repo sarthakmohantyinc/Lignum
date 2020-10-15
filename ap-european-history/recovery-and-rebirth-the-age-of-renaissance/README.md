@@ -134,26 +134,31 @@ description: >-
 | Marsilio Ficino | Translation of Plato's Dialogues | This helped synthesize and combine the ideas of Christianity and Platonism into one and helped people understand the link between the material world and the spiritual world and their highest duty was to ascend toward that union with God that was the true end of human existence. |
 
 * What is Neoplatonism? Hermeticism? Pantheism? What do all three of these concepts have in common?
-  * Neoplatonism is the exposition of Plato's philosophy, based on two ideas; the hierarchy of substances, and a theory of spiritual love.
-  * Hermeticism is a philosophy, where there was a stress of astrology, alchemy, and magic, as well as theological views and philosophical beliefs.
-  * Pantheism is seeing divinity embodied in all aspects of nature and in the heavenly bodies as well as in early objects. "God as a whole is in all things".
-  * These are all related to each other in that each one is based on the other. These were all things the ideal Renaissance man would have embraced.
+  * Neoplatonism is the exposition of Plato's philosophy, based on two ideas; **the hierarchy of substances, and a theory of spiritual love**.
+  * Hermeticism is a philosophy, where there was a **stress of astrology, alchemy, and magic, as well as theological views and philosophical beliefs**.
+  * Pantheism is seeing **divinity embodied in all aspects of nature** and in the heavenly bodies as well as in early objects. "God as a whole is in all things".
+  * These are all related to each other in that each one is based on the other. These were **all things the ideal Renaissance man would have embraced**.
 * Humanism is often linked to the "liberal studies" - what are these, and how does this relate to the concept of "l'uomo universale" mentioned back on pg.333? What kinds of physical education skills were taught?
-  * The liberal studies are grammar, rhetoric, poetry, moral philosophy, ethics, or history. All of these were based on Greek and Roman texts which were characteristic of l'uomo universale or the ideal renaissance man. 
+  * The liberal studies are **grammar, rhetoric, poetry, moral philosophy, ethics, or history**. All of these were based on Greek and Roman texts which were **characteristic of l'uomo universale or the ideal renaissance man**. 
   * The **Renaissance** Period made clear that **physical education** is necessary for health, as a preparation for warfare, as a means of developing the body.
 * Although education was emphasized in this time, what segment of the population was most likely to receive a formal education at this time?
   * The **upper class was most likely to recieve a formal education** at the time. The lower class occasionally got free education.
 * How did women generally fit into the concept of a humanist education? How would you summarize the effect of the Renaissance on women of Italy?
-  * 
+  *  Some historians maintain that during the Middle Ages **upper-class women in particular had greater freedom to satisfy their emotional needs** and that upper-class women in the Renaissance experienced a **contraction of both social and personal options** as they became even more subject to male authority and patterns.
 * If the Roman Catholic Church had so much power, how did the humanists manage to "secularize" the writing of history. \(pg 350\).
-  * 
+  * The **invention of the printing press greatly increased the spread of secular beliefs** and because of this printing became one of the largest industries. 
 * What was the most important invention of the 15th century? Who invented it? About half of the items created by this invention were about what?
-  * 
+  * The most important invention was the printing press. Johannes Gutenberg invented the process of movable type and half of the items created by this were religious \(Bibles, sermons, and biblical commentaries\).
 
 ### The Artistic Renaissance
 
 * Who was the first artist since Giotto to begin imitating nature in his work? Where can his work be seen?
+  * Masaccio imitated nature and landscapes in his work and can be seen in Florence in the Brancacci Chapel.
 * Explain at least 4 features of Renaissance art and how it portrayed humanism.
+  * 1\) A revival of Classical Greek/Roman art forms and styles
+  * 2\) A faith in the nobility of Man \(Humanism\)
+  * 3\) The mastery of illusionistic painting techniques, maximizing 'depth' in a picture, including linear perspective, foreshortening and, later, _quadratura_
+  * 4\) The naturalistic realism of its faces and figures, enhanced by oil painting techniques like _sfumato_
 * Fill in the chart of Renaissance artists and their major works.
 
 | Artist Name | Famous Work\(s\) | Early/High | At least one element of piece that makes it Renaissance |
