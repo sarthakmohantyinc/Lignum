@@ -13,11 +13,11 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=EuzAbE-kPkM&list=PL8dPuuaLjXtMsMTfmRomkVQG8AqrAmJFX&index=4" %}
 
-* dsf
-* sdf
-* fds
-* fsd
-* fsd
+* labor became more valuable
+* Petrarch's writing helped people transition
+* Renaissance = "revival"
+* Renaissance artist focused on details
+* lives of average people weren't changed
 
 ## Major Concepts
 
@@ -284,29 +284,35 @@ description: >-
   * Castille ~ Ruled by Isabella
   * United by the marriage of Ferdinand & Isabella
 * What were the two large religious minorities in Spain? How were they treated during the renaissance? \(hint… read carefully\)
-  * Muslims and kew
+  * Muslims and Jews; Jews were forced to convert/or be forced to leave.
 * What was the Spanish Inquisition? What was the Fall of Grenada?
+  * 1478: Pope introduced inquisition, worked to guarantee orthodox over converts; had no power over jews
+  * 1492: Jews were forced to leave Spain
 * What dynasty controlled the Holy Roman Empire, where modern day Germany and Austria are located? How did this dynasty manage to become so successful?
+  * Habsburg Dynasty; by gradually acquiring a \# of possessions along the Danube and well-executed policy of dynastic marriages.
 * How were central and Eastern European kingdoms fundamentally different from those in the West?
+  * Central and Eastern European states struggled to establish a monarchy.
 * Briefly describe the situations in Poland, Hungary, and Russia during this time.
+  * The preoccupation of the rulers with problems in Bohemia of Hungary as well as the war with Russians/Turks enabled aristocrats to establish power.
 * Who were the biggest threat to Eastern Europe beginning in the 14th century? What empire did they trample and what city fell under their control in 1453? What European cultures were most imminently threatened by this new empire?
+  * Ottoman Turks ~ they trampled Constantinople and Byzantine Empire; religion.
 
 ## Short Answer Practice
 
 1. Explain the context in which the Renaissance developed. \(What had happened immediately before that set the stage for the Renaissance? Be sure to explain HOW it led to the Renaissance.\)
-   * 
+   * The Black Plague left social, economic, and religious changes. Because for a while strict religion softened up, this lead to rebirth out of the dark medieval ages into the Renaissance.
 2. Explain how the revival of classical texts contributed to the development of the Renaissance in Italy.
-   * 
+   * Greek and Roman text revivals supported the rise of humanism, which would eventually be the stem for renaissance thinking. Humanism also led to individualism which also had an impact on the Renaissance way of life.
 3. Explain the political, intellectual, and cultural effects of the Italian Renaissance.
-   * 
+   *  The power both economically and politically wealthy families like the Medici family consolidated and increased number of the new kind of art. Secularism and religion grew while philosophy and humanism expanded.
 4. Explain how the Renaissance ideas were developed, maintained, and changed as the Renaissance spread to northern Europe. \(hint: Erasmus!\)
-   * 
+   * Merchants & travelers would go to Italy to bring back theories. The printing press invention helped spread/disperse ideas from Italy.
 5. Explain the Influence of the printing press on cultural and intellectual developments in modern European history.  
-   * 
+   * The printing press helped influence by making it easier to translate and give more people access to the source. The invention also gave people the urge to want more knowledge.
 6. Explain the causes and effects of the development of political institutions from 1450- 1648.
-   * 
+   * This time was titled Age of New Monarchies. The new monarchies arose in England, France, and Spain which gave the pope the urge to go out of his spiritual jurisdiction and participate in politics.
 7. Explain European Commercial and agricultural developments and their economic effects from 1450-1648. \(banking, urbanization, agriculture, manorialism, trade\)
-   * 
+   * Banking was widespread which gave many new economic wealth. This caused an increase in urban growth, although most economies still relied on agriculture.
 8. Explain European commercial and agricultural developments and their social effects from 1450-1648. \(status of women, nobles, artists, serfs, marriage patterns\)
-   * 
+   * Very few women were allowed to have a voice in politics, but women found ways to make money. Marriages at this time were mostly arranged.
 
