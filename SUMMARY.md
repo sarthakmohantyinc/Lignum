@@ -13,6 +13,7 @@
 * [Recovery and Rebirth: The Age of Renaissance](ap-european-history/recovery-and-rebirth-the-age-of-renaissance/README.md)
   * [Chapter 12 Flashcards](https://quizlet.com)
 * [Europe and the World: New Encounters](ap-european-history/europe-and-the-world-new-encounters.md)
+* [Reformation and Religious Warfare in the Sixteenth Century](ap-european-history/reformation-and-religious-warfare-in-the-sixteenth-century.md)
 
 ## AP Microeconomics
 
