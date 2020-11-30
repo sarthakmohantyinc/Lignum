@@ -46,12 +46,50 @@ description: >-
 * How was the Northern Renaissance, in some ways, similar to the Italian renaissance?
 * Compare and contrast Erasmus with Thomas More using the chart below
 
-|  | **Desiderius Erasmus** | **Thomas More** |
-| :--- | :--- | :--- |
-| **Location** |  |  |
-| **Years Active** |  |  |
-| **Famous Works** |  |  |
-| **Core Beliefs** |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"><b>Desiderius Erasmus</b>
+      </th>
+      <th style="text-align:left"><b>Thomas More</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Location</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Years Active</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Famous Works</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Core Beliefs</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>dsfjkh</li>
+          <li>dfggdf</li>
+          <li>df</li>
+          <li>dfg</li>
+        </ul>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 * Who held the highest positions among the clergy?  What is the bourgeoisie?
 * How did the church increase its revenues?   What is pluralism?
