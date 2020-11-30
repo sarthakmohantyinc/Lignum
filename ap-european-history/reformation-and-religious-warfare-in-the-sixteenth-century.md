@@ -151,7 +151,5 @@ description: >-
   * Politically
   * Economically
   * Socially
-  * Militarily
-
-###  
+  * Militarily 
 
